@@ -1,6 +1,12 @@
 # AutoReminderGoogleSheets
 Google sheets project about auto organizing and reminding about Student Council Tech Event Requests
 
+Link to project: https://docs.google.com/spreadsheets/d/1qb_PhxXqJlX4gIoOyaUYVAW7wZ8KNO9NJaUuK5XAGHM/edit?usp=sharing
+
+
+
+Actual Code
+
 // if you have any questions with the code email me
 const sheet = SpreadsheetApp.getActiveSheet();
 
